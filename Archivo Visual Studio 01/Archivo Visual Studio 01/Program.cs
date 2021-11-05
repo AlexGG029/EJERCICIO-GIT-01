@@ -8,7 +8,8 @@ namespace Archivo_Visual_Studio_01
         {
             //Texto Modificable 
             //Odio Ingeniería del Software
-            Console.WriteLine("Hello World!");
+            // Yo también bro T.T
+            Console.WriteLine("Good Night!");
         }
     }
 }
