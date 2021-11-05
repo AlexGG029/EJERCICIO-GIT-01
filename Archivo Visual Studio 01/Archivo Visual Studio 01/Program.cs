@@ -11,6 +11,7 @@ namespace Archivo_Visual_Studio_01
             // Yo también bro T.T
             Console.WriteLine("Good Night!");
             Console.WriteLine("Bye Bye World!");
+            Console.WriteLine("Se suisida T.T");
 
         }
     }
